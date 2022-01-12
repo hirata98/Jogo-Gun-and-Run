@@ -1,5 +1,4 @@
 # Documentação
-##
 
 Buscando simplicidade e fácil implementação, este projeto tem como
 intuito desenvolver um jogo que possua mecânicas similares aos jogos a seguir.
